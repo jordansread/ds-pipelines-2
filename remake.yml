@@ -7,7 +7,7 @@ packages:
   - dataRetrieval
   - dplyr
   - ggplot2
-  - readr
+  - readrsdf
   - stringr
   - purrr
 
